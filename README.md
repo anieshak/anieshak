@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I am currently upskilling myself to land a better Job in Tech.<br>🌱 Actively learning about APIs, Python & engaging in FOSS community contributions.<br>🤔 I &#128151; contributing to Open Source projects.<br>📫 Website - https://aniesh.carrd.co<br>😄 Pronouns: He/His<br>⚡ Favorite Quote: The best way to stay Happy is to be Busy!
+🔭 Currently upskilling myself to land a better Job in Tech.<br>🌱 Actively learning about APIs, Python & engaging in FOSS community contributions.<br>🤔 I &#128151; contributing to Open Source projects.<br>📫 Website - https://aniesh.carrd.co<br>😄 Pronouns: He/His<br>⚡ Favorite Quote: The best way to stay Happy is to be Busy!
 
 
 ## 🌐 Socials:
