@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m all about helping people succeed, and I believe technology can make that journey easier. Let’s use tech to reach your goals together! <br>🌱 Actively learning Alteryx, GenAI & APIs <br>🤔 I &#128151; contributing to Open Source projects.<br>📫 Website - https://aniesh.carrd.co<br>😄 Pronouns: He/Him<br>⚡ Favorite Quote: The best way to stay Happy is to be Busy!
+🔭 I’m all about helping people succeed, and I believe technology can make that journey easier. Let’s use tech to reach your goals together! <br>🌱 Actively learning Alteryx, GenAI & APIs. <br>🤔 I &#128151; contributing to Open Source projects.<br>📫 Website - https://aniesh.com<br>😄 Pronouns: He/Him<br>⚡ Favorite Quote: The best way to stay Happy is to be Busy!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AgentAniesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anieshkumar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aniesh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AgentAniesh) 
